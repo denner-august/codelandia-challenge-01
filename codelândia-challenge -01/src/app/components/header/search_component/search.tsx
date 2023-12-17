@@ -1,6 +1,5 @@
-import Imagem from "next/image";
-
 import icone from "@/../public/image/icon-search.png";
+import { ImageComponent } from "@/app/tools/Image";
 
 export function SearchBar() {
   return (
@@ -8,7 +7,7 @@ export function SearchBar() {
       <form className="flex items-center">
         <div className="relative mt-12 w-[65vw]">
           <div className="absolute inset-y-0 start-0 flex items-center ps-3 pointer-events-none ">
-            <Imagem
+            <ImageComponent
               src={icone}
               height={32}
               width={32}
