@@ -1,5 +1,5 @@
-# quick orders at habib's
-## Este projeto é baseado na minha experiência quando fui ao habib's e tive uma experiência ruim, então pensei em como poderia resolver o problema baseado em organização de pedidos.
+# Codelandia-challenge-01
+## Este projeto é baseado em desafios de front-end para aprimorar minhas habilidades e demonstração de conhecimento
 
 ![texto alternativo](apague e coloque a url da sua imagem aqui "titulo")
 
