@@ -15,6 +15,10 @@ const config: Config = {
       }
     },
 
+    minHeight: {
+      "60": "15rem"
+    },
+
     colors: {
       black: "#000",
       textoPrincipal: "#E07B67",
