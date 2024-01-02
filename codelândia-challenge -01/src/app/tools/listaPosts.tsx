@@ -1,4 +1,4 @@
-import PostsCriados from "@/../post.json";
+import PostsCriados from "../../../post.json";
 import { Posts } from "../components/posts/posts";
 import { useEffect, useState } from "react";
 import { usePesquisa } from "@/app/context/ContextZustand";
